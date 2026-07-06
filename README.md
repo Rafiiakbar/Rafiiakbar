@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Gambar_Spiderman](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDMyOXJ3c3BiNnZhcDh3amFvdjlpdGw0ZmRkenU0MWt1dTluMGRsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l36kU80xPf0ojG0Erg/giphy.gif)
+![Gambar_Spiderman](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHBsYzdiNGJjZDdscTdtdmhueTU1aGNiaGZkNHRuYWpkeDNlam45cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mEaXdIxc4dmqFTH3uq/giphy.gif)
