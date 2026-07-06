@@ -1,3 +1,9 @@
+<!-- ## Hello I'm **Rafi Akbar** 👋 -->
+
+## ![Gambar_banner](img/gitbanner.png)
+
+![Gambar_Spiderman](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHBsYzdiNGJjZDdscTdtdmhueTU1aGNiaGZkNHRuYWpkeDNlam45cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mEaXdIxc4dmqFTH3uq/giphy.gif)
+
 # 💫 About Me:
 
 🚀 I'm currently working on<br>Building web apps & AI automation projects.<br>💡 I'm looking for help with<br>Landing my first tech job and growing my skills.<br>📚 I'm currently learning<br>Laravel, n8n, AI Agents, and backend development.<br>💬 Ask me about<br>Laravel, automation, AI, or anything tech.<br>⚡ Fun fact<br>I can spend hours fixing one bug... just to find a missing semicolon. 😭
@@ -12,7 +18,11 @@
 
 # 📊 GitHub Stats:
 
+<!-- ![](https://github-readme-stats.shion.dev/api?username=Rafiiakbar&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
+
 ![](https://streak-stats.demolab.com/?user=Rafiiakbar&theme=default_repocard&hide_border=true)<br/>
+
+<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rafiiakbar&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
 
