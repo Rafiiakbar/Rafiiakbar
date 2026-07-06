@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello I'm **Rafi Akbar** 👋
 
 <!--
 **Rafiiakbar/Rafiiakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Gambar_Spiderman](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDMyOXJ3c3BiNnZhcDh3amFvdjlpdGw0ZmRkenU0MWt1dTluMGRsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l36kU80xPf0ojG0Erg/giphy.gif)
