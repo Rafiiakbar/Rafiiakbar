@@ -1,5 +1,9 @@
 ## Hello I'm **Rafi Akbar** 👋
 
+![Gambar_banner](img/gitbanner.png)
+
+![Gambar_Spiderman](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHBsYzdiNGJjZDdscTdtdmhueTU1aGNiaGZkNHRuYWpkeDNlam45cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mEaXdIxc4dmqFTH3uq/giphy.gif)
+
 <!--
 **Rafiiakbar/Rafiiakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Gambar_Spiderman](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHBsYzdiNGJjZDdscTdtdmhueTU1aGNiaGZkNHRuYWpkeDNlam45cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mEaXdIxc4dmqFTH3uq/giphy.gif)
